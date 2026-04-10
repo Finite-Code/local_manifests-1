@@ -1,6 +1,6 @@
 <manifest>
 
-  <remote name="ossi" fetch="https://github.com/mt6892-development/" revision="lineage-23.2" />
+  <remote name="ossi" fetch="https://github.com/mt6893-development/" revision="lineage-23.2" />
   <remote name="los" fetch="https://github.com/LineageOS/" revision="lineage-23.2" />
   <remote name="crdroidandroid" fetch="https://gitlab.com/crdroidandroid/" revision="14.0" />
   <remote name="liwhy1" fetch="https://gitlab.com/liwhy1/" revision="main" />
