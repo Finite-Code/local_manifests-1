@@ -18,7 +18,7 @@
   <project path="vendor/oplus/camera" name="proprietary_vendor_oplus_camera" remote="liwhy1" />
 
   <!-- Clang -->
-  <project path="prebuilts/clang/host/linux-x86/clang-r98229b" name="android_prebuilts_clang_host_linux-x86_clang-r498229b" remote="crdroidandroid" clone-depth="1" revision="14.0" />
+  <project path="prebuilts/clang/host/linux-x86/clang-r49229b" name="android_prebuilts_clang_host_linux-x86_clang-r498229b" remote="crdroidandroid" clone-depth="1" revision="14.0" />
 
   <!-- SEPolicy -->
   <project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr" remote="los" revision="lineage-23.2"/>
